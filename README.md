@@ -4,7 +4,7 @@ I'm Parham Fakhari, a passionate Full-Stack Developer, AI Engineer, and Game Dev
 With over 5 years of experience, I specialize in building powerful web applications, intelligent AI systems, mobile apps, and even operating systems from scratch.
 Whether it's crafting Telegram Web3 bots, training AI models, or writing a Unix-like OS in C & Assembly — I'm all in.
 -----------
-فارسی:
+
 من پرهام فخاری هستم، یک توسعه‌دهنده فول‌استک، مهندس هوش مصنوعی و توسعه‌دهنده بازی از مشهد 🇮🇷.
 با بیش از 5 سال تجربه، در ساخت برنامه‌های وب قدرتمند، سیستم‌های هوش مصنوعی هوشمند، اپلیکیشن‌های موبایل و حتی سیستم‌عامل‌ها از صفر تخصص دارم.
 چه ساخت ربات‌های وب۳ تلگرام، آموزش مدل‌های هوش مصنوعی، یا نوشتن یک سیستم‌عامل شبیه یونیکس با C و اسمبلی باشد — من کاملاً درگیر این کار هستم.
